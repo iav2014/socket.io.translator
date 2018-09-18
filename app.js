@@ -1,6 +1,6 @@
 /**
  * chat server example
- * socket.io implements
+ * socket.io based implements
  * @goal / routing index.html file
  * @param request & response
  * @return response
